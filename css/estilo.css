@@ -9,6 +9,7 @@ body {
 h1{
     font-family: 'Times New Roman', Times, serif;
     color: aliceblue;
+    font-size: 27px;
 }
 
 label{
@@ -17,21 +18,21 @@ label{
 }
 
 .div1{
-    margin: 10px auto;
+    margin: 40px auto;
     padding: 5px 10px;
     align-items: center;
     border-radius: 30px;
     background-color: rgb(7, 7, 7);
     box-shadow: 1px 1px 25px 2px rgb(150, 7, 241);
-    width: 35%;
+    width: 30%;
     
    
 }
 
 .valordaconta{
-    width: 60%;
-    height: 25px;
-    font-size: 20px;
+    width: 70%;
+    height: 20px;
+    font-size: 15px;
     text-align: center;
     background-color: #87b9f6;
     border-radius: 3px;
@@ -39,9 +40,9 @@ label{
 }
 
 select{
-    width: 82%;
-    height: 30px;
-    font-size: 20px;
+    width: 72%;
+    height: 25px;
+    font-size: 15px;
     text-align: center;
     background-color: #87b9f6;
     border-radius: 3px;
@@ -49,30 +50,30 @@ select{
 
 .calc{
     border-radius: 20px;
-    font-size: 20px;
+    font-size: 15px;
     color:rgba(95, 246, 8, 0.849);
     background-color: rgb(19, 19, 20);
     box-shadow: 1px 1px 15px 0px rgb(158, 157, 158);
-    width: 80%;
+    width: 50%;
     height: 35px;
 }
 
 .vg{
     margin: 0 auto;
-    font-size: 20px;
+    font-size: 15px;
     background-color: #87b9f6;
-    width: 80%;
-    height: 25px;
+    width: 70%;
+    height: 20px;
     text-align: center;
     border-radius: 3px;
 }
 
 .vt{
     margin: 0 auto;
-    font-size: 20px;
+    font-size: 15px;
     background-color: #9fbde6;
-    width: 80%;
-    height: 25px;
+    width: 70%;
+    height: 20px;
     text-align: center;
     border-radius: 3px;
    

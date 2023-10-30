@@ -82,10 +82,10 @@ if(isset($_POST['valor_conta'], $_POST['opcao'], $_POST['calcular'], $_POST['gor
                 <option value="c">Bom - 5%</option>
                 <option value="d">Ruim - 2%</option>
             </select>
-            <br><br><br>
+            <br><br>
 
             <input class="calc" type="submit" name="calcular" value="Calcular Gorjeta">
-            <br><br><br>
+            <br><br>
 
             <label for="valorgorjeta">Valor da Gorjeta:</label>
             <br>
